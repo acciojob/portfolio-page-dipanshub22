@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+img{
+	width:300px;
+}
+#skills{
+	background-color:yellow;
+}
+#projects{
+	border:1px solid black;
+}
